@@ -19,4 +19,4 @@ A simple C# console app that helps you:
 ## 🖥️ How to Run
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/karabotshivhase/PersonalBudgetHelper.git
