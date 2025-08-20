@@ -21,5 +21,6 @@ A simple C# console app that helps you:
    ```bash
    git clone https://github.com/karabotshivhase/PersonalBudgetHelper.git
    cd PersonalBudgetHelper
-dotnet run
+   dotnet run
+
 
