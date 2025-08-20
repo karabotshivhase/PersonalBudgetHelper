@@ -22,5 +22,28 @@ A simple C# console app that helps you:
    git clone https://github.com/karabotshivhase/PersonalBudgetHelper.git
    cd PersonalBudgetHelper
    dotnet run
+🔮 Future Improvements
+
+Add more expense categories
+
+Save data to a file (track monthly budgets)
+
+Create a GUI version with WPF or Blazor
+
+📸 Example Output
+Please enter your monthly income: 5000
+Enter amount for Rent: 2000
+Enter amount for Food: 1500
+Enter amount for Transportation: 800
+Enter amount for Entertainment: 400
+
+💸 Total Expenses: R4,700.00
+💰 Savings: R300.00
+
+📊 Budget Advice:
+📉 Your savings rate is low. Aim to save at least 10% of your income.
+
+✅ Budget analysis complete!
+
 
 
